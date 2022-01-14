@@ -3,7 +3,7 @@
 
 # Summary
 
-This is the report from a security audit performed on [Token Granacoin](https://github.com/granacoin/granacoin/blob/main/gracocoin.sol) by [Blockchain Technology SAS](https://github.com/blockchaintechnologysas/audit/blob/main/doc/granacoin-graco-audit_report.md). This contracts are a version of [OpenZeppelin Contracts v4.4.0](https://github.com/OpenZeppelin/openzeppelin-contracts).
+This is the report from a security audit performed on [Token Wlovecoin](https://github.com/granacoin/granacoin/blob/main/gracocoin.sol) by [Blockchain Technology SAS](https://github.com/blockchaintechnologysas/audit/blob/main/doc/granacoin-graco-audit_report.md). This contracts are a version of [OpenZeppelin Contracts v4.4.0](https://github.com/OpenZeppelin/openzeppelin-contracts).
 
 The audit mainly focused on the security of the funds and the fault tolerance of the token. The main intention of this token is the commercialization of the company's products UNIVERSO DE LOS COSMETICOS S.A.S. of Cali-Colombia
 
