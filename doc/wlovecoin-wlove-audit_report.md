@@ -175,9 +175,9 @@ These contracts are ready to use. At the time of the audit, the development of t
   
 # Certificado Digital
 
-No critical vulnerabilities were detected. The reported The Dfollowers talent SAS company with NIT 901.499.705-4 genres:
+No critical vulnerabilities were detected. The reported The Dfollowers talent SAS company with NIT 901499705-4 genres:
 
-That the digital asset identified with the name WLOVE, with the abbreviation WLOVE, created on Junary 13, 2022 with the contract 0xe0c54a0ac26803cadc40e19d96130063d069c738 in the Binance Smart Chain Network (BSC), Internal audit document DF-A-001 was created on the date Junary 14, 2022. The document was stored in the BSC network Contract 0xCc2A4Dc4924EE496787451B7EE0818320B4AA949 with the Hash 0x0c2c86656a7bb40161d4d473fd148334f192a15faf54897c3c941399d .522 Document can be viewed: DF-A-001 Token Wlove Audit Report 14-01-2022
+That the digital asset identified with the name WLOVE, with the abbreviation WLOVE, created on Junary 13, 2022 with the contract 0xe0c54a0ac26803cadc40e19d96130063d069c738 in the Binance Smart Chain Network (BSC), Internal audit document DF-A-001 was created on the date Junary 14, 2022. The document was stored in the BSC network Contract 0xb2779880fcd85ef18ae35f107bd38cfdf3a91e65 with the Hash 0x0fcee9ce580d1bf78788c3ad09c888eea66c4fc613b9a7a692fc06713518db83 Document can be viewed: DF-A-001 Token Wlove Audit Report 14-01-2022
 
 
 Audit Certificate Number 1, It is issued in Armenia, Quindio, on the 14th day of Junary 2022.
